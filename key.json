@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "attplanilha",
+  "private_key_id": "88d1c1bd3f1dd9f0b9cb242fbc5082c091299f1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOLr7eYzGcHtj/\nc94vdPtQr80p20NnLVfIaMbrUH+LT4tpM+ePFUAOS41QFjnyBT8VKYHv3Zev6aQE\nRQTcEhJkmoYb4gB/e9GXBq0hGwS+nntXPdanrxk6NTZuwYYwQwFVJP8saL0yLChH\ndXVuXJHAEH2ElqmTwC3cvJV8YPRWwpielYmB8YjGYYj7c5Av82W8UVCP9vD5q4Pv\nCS195qD0Vq0F/5a78X/PCxm6a14Mzyzpc/AOKGm+FbvknQvlvLvhPnlB/8aJ82eq\n+BNm89ppvjx4j/Segm9PykyYyhB7Pxjf827Zn2I18TWWdr2I8tWsBLX/GPQ0Vv7g\nMUsGiE/NAgMBAAECggEAHICeTqhoRoSGK3Q1UhqqFkqjQkbHH9eHE9OWMhf/9b5y\nj4HHIELIBuHfYGOeMYyTnqWNCp93tXAHRjbTV+fgpostAGRC/NydSfM4kkPFqWNH\nujT4fFhKlL8f7fovRnMw1zgk1VsKUooDrHM6n13JIUO2UlKwkRYHUQU55gaSKH8B\nG51WqqkwkoHeFyxzY4BweMexPPZ7swdJTJdYk6sJg43fyMpFdllVU8tJR7sa9nD4\nex+UQOAl+/FTJsXpATO8ij3W8/B3FH0hrxyNdAJDN9UKI0e4tIbiF6ikznn5K+dL\nNBkAli1XBMM4LT1Z/c9C6LgnR5G17YmWT+qterwRQQKBgQDwcU7fLsqL2jyAucyX\nsyQvgksb1ECZBeDRoY2QnuyG4WWGPcAGBq+F6JyEf02oSuue9Qw3XOMLjM+0aDUU\nw27dwRK1s4uoA0wQXufOA1P2ZYTQfwLWcnWlLfJVovMtHQL4vFZwEKcRhcpab289\n59WJD0U47VEP6+WhJISA85wGQQKBgQDbhfRhaHR3/yRbv0m/4iLjXxJHORToWDBT\nvpy0MIey59ittgrRFK/XRIuWJEfbTzXZBDEllq1OwvxDF00mGcySVZgLs9NZ8cMp\nfGPlNxmNHCEfKeVHlu+h2AQTGcnQr85qUQCIKF/OtCS104lcSiPI/EEfuxT/aNwu\naOsBvg1ejQKBgQDr60GoWxECCDA1XhkRAAURWJa5x5lajBn7lriAnm8WKTKkdRJk\n10qB6aspln9sEZb/cRF7gPiF7LQgH991cAzoKPlir7joMdQAfB6WVU2dBh87NGRk\nZgpo+Jw+ypQwP7cauDFX4/8Jgmz6LzzHUSKESSdyo+hV5vB5HIumu2DsAQKBgBau\nIVCLDTV0m9oKymDTyUz6fpXzNNDIg72zPNd1CCAYyg8wdq+hVoWEJHPPrcjfxy1z\nvGwoxCEWDiAUYTklgzg/NaVH3/cz/jjkDCIbbj1hAZ8JohGia4GqIsmiaXJxJ39e\nfRKUMUnW3NAYWeG6GzZhsYzItGOq/sygtF8KtrDlAoGAB9ROTnpnIX9ZQc1S71H5\nhm8y/YLDjrPt2+vr26BU+a2e9ZWlLKgMFVK+DHgM+vZmx6mqmAXZEAcPzC/YXKnr\n8Kk0VJP1KZiXUORQOudvwQAkREF099GOE3zsxKukrbmErVg5QFjLscYY0mrFVVor\n6ZDSbEj2DVYR4DoBTaj6TrU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sistema-att-planilha@attplanilha.iam.gserviceaccount.com",
+  "client_id": "107299644889247864162",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sistema-att-planilha%40attplanilha.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
