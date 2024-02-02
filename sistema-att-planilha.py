@@ -1,4 +1,5 @@
 #necessário instalar gspread
+#É de suma importancia que o arquivo 'key.json' esteja na mesma pasta que o arquivo do código fonte. Tendo em vista que é ele o responsavel pela conexão entre o programa e o GoogleSheets
 
 import gspread
 import time
